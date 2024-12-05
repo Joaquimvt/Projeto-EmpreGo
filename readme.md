@@ -10,7 +10,7 @@ Este projeto é uma aplicação web para gerenciamento de empresas e vagas de em
 ---
 
 ## 📖 Índice
-1. [⚙️ Funcionalidades](#-funcionalidades)
+1. [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 2. [📁 Estrutura do Projeto](#-estrutura-do-projeto)
 ---
 
